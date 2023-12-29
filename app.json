@@ -28,7 +28,7 @@
     },
     "update_channel": {
       "description": "The id of a channel to which i need to send the current status",
-      "value": ""
+      "value": "-1001857511752"
     },
     "status_message_id": {
       "description": "Give the id of message which need to be edited you can give more than one id and separated with space",
@@ -36,7 +36,7 @@
     },
     "bots": {
       "description": "list of bot usernames example- botone bottwo ",
-      "value": "",
+      "value": "mischief_xbot HaVaSS_xbot AzurexFaster_bot",
       "required": false
     }
   },
